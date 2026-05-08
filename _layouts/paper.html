@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<article class="paper">
+  <p class="back"><a href="{{ '/papers/' | relative_url }}">← All papers</a></p>
+  <header class="paper-header">
+    <h1>{{ page.title }}</h1>
+    <p class="paper-meta">
+      {{ page.authors }} · <em>{{ page.journal }}</em>{% if page.year %} ({{ page.year }}){% endif %}
+    </p>
+    <ul class="paper-links">
+      {% if page.doi %}<li><a href="https://doi.org/{{ page.doi }}">DOI</a></li>{% endif %}
+      {% if page.arxiv %}<li><a href="https://arxiv.org/abs/{{ page.arxiv }}">arXiv</a></li>{% endif %}
+      {% if page.ads %}<li><a href="{{ page.ads }}">ADS</a></li>{% endif %}
+      {% if page.pdf %}<li><a href="{{ page.pdf }}">PDF</a></li>{% endif %}
+      {% if page.code %}<li><a href="{{ page.code }}">Code</a></li>{% endif %}
+    </ul>
+  </header>
+
+  {% if page.figure %}
+  <figure class="paper-figure">
+    <img src="{{ page.figure | relative_url }}" alt="{{ page.figure_alt | default: page.title }}">
+    {% if page.figure_caption %}<figcaption>{{ page.figure_caption }}</figcaption>{% endif %}
+  </figure>
+  {% endif %}
+
+  <div class="paper-body">
+    {{ content }}
+  </div>
+
+  {% if page.press %}
+  <section class="press">
+    <h2>In the press</h2>
+    <ul>
+      {% for item in page.press %}
+      <li><a href="{{ item.url }}">{{ item.outlet }}</a>{% if item.title %} — {{ item.title }}{% endif %}</li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+</article>

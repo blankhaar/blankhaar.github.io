@@ -1,0 +1,18 @@
+<span class="email" data-user="boy.lankhaar" data-domain="astro.uio.no">
+  <button type="button" class="email-reveal" aria-label="Reveal email address">Show email</button>
+</span>
+<script>
+(function () {
+  document.querySelectorAll('.email').forEach(function (el) {
+    var btn = el.querySelector('.email-reveal');
+    if (!btn) return;
+    btn.addEventListener('click', function () {
+      var addr = el.dataset.user + '@' + el.dataset.domain;
+      var link = document.createElement('a');
+      link.href = 'mailto:' + addr;
+      link.textContent = addr;
+      el.replaceChild(link, btn);
+    });
+  });
+})();
+</script>

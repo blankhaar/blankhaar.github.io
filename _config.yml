@@ -1,0 +1,49 @@
+title: Boy Lankhaar
+subtitle: Astronomer, University of Oslo
+description: >-
+  Boy Lankhaar — postdoctoral researcher at the Institute of Theoretical
+  Astrophysics, University of Oslo. Studying cosmic magnetic fields with
+  molecules.
+author:
+  name: Boy Lankhaar
+  email: boy.lankhaar@astro.uio.no
+  orcid: 0000-0001-8975-9926
+  scholar: Mw_5XrgAAAAJ
+  linkedin: boy-lankhaar-752a8536
+  github: blankhaar
+
+url: "https://blankhaar.github.io"
+baseurl: ""
+
+permalink: /:slug/
+
+collections:
+  papers:
+    output: true
+    permalink: /papers/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: papers
+    values:
+      layout: paper
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+  - .DS_Store

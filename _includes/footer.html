@@ -1,0 +1,14 @@
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="contact-row">
+      {% include email.html %}
+      <a href="https://orcid.org/{{ site.author.orcid }}" rel="me">ORCID</a>
+      <a href="https://scholar.google.com/citations?user={{ site.author.scholar }}">Scholar</a>
+      <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}/">LinkedIn</a>
+      <a href="https://github.com/{{ site.author.github }}">GitHub</a>
+    </div>
+    <div class="footer-meta">
+      © {{ 'now' | date: '%Y' }} Boy Lankhaar · Institute of Theoretical Astrophysics, University of Oslo
+    </div>
+  </div>
+</footer>
