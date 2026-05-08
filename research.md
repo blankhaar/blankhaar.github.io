@@ -1,30 +1,40 @@
 ---
 layout: page
 title: Research
-subtitle: Cosmic magnetism through the lens of molecular spectroscopy.
+subtitle: Cosmic magnetic fields, molecular spectroscopy, and the questions I keep coming back to.
 permalink: /research/
 ---
 
 ## What I work on
 
-Magnetic fields are everywhere in the universe, but they are remarkably hard to measure. We can see them around the Earth, the Sun, and a handful of nearby stars — but on the scales where stars and galaxies form, our knowledge is patchy. My work tries to close that gap by treating molecules as exquisitely sensitive probes of magnetic fields, polarization, and gas dynamics.
+I am interested in cosmic magnetic fields. They shape much of the visible universe — driving the formation of stars and planets, organising the gas around evolved stars, and powering some of the most extreme phenomena around galactic nuclei — and yet they remain stubbornly difficult to measure in the places where they actually do their work.
 
-The thread running through everything I do is **radiative transfer of polarized molecular emission**: how the quantum mechanics of molecules, the local physical conditions of a gas, and the propagation of light through that gas combine to produce what we ultimately measure with telescopes like ALMA, the VLA, and the SKA precursors.
+The thread running through my research is the **polarized radiative transfer** of molecular and atomic spectral lines. Molecules in a magnetised gas absorb and emit light whose polarization carries quantitative information about both the *strength* and the *geometry* of the local magnetic field. Combined with careful theory, this gives us a direct window onto magnetism in environments that would otherwise be hidden: the cold dense cores of molecular clouds, the disks where planets are assembled, the circumstellar envelopes of evolved stars, and the dust-buried nuclei of luminous galaxies.
 
-## Themes
+The objects change; the toolkit stays the same. Quantum chemistry to understand how molecules respond to magnetic fields. Radiative-transfer theory to follow the polarized signal as it propagates through the gas. And observations from facilities like ALMA, the VLA, the SKA precursors, and — soon — the SKA itself, to confront our predictions with reality. A substantial part of my time goes into building this toolkit; the open-source codes [PORTAL and CHAMP]({{ '/code/' | relative_url }}) are two of its main pieces.
 
-### Magnetic fields in star formation
-Molecular masers and thermal lines from young stellar objects and protoplanetary disks act as natural magnetometers. By modelling how their polarization arises — including hyperfine structure, anisotropic pumping, and saturation effects — we can convert observations into actual field measurements.
+What follows is a more personal map of the questions I keep returning to — slow-burning threads, not all of them yet papers.
 
-### Evolved stars and circumstellar envelopes
-The dusty, molecule-rich envelopes around AGB stars host strong masers (OH, H₂O, SiO) whose polarization tells us about the magnetic field that shapes mass loss and, eventually, planetary nebulae.
+## Fundamentals of radiative transfer
 
-### Galaxies and supermassive black holes
-On much larger scales, polarized water and OH megamasers in nearby galaxies open windows onto magnetic fields close to active galactic nuclei. Recent work also looks at millimetre emission from the coronae of supermassive black holes themselves.
+The canonical picture of spectral-line radiative transfer rests on the three processes introduced by Einstein: absorption, stimulated emission, and spontaneous emission. Together, these form the basis of the classical radiative transfer equation, which reduces to Beer's law in the limit of pure absorption and, with the inclusion of emissivity, becomes the standard equation used throughout astronomy.
 
-### Theory and tools
-A lot of my time goes into building the *machinery* — the codes and theoretical frameworks that connect observations to physics. This includes [CHAMP](https://github.com/{{ site.author.github }}), a maser polarization solver, and ongoing work on a quantum-mechanical theory of dust grain alignment.
+In [Lankhaar 2025](https://arxiv.org/abs/2505.03888), I challenge a central assumption underlying this canonical formulation: that the interaction between radiation and matter can be represented as a simple sum of independent photon–molecule (or photon–atom) interactions — that the whole equals the sum of its parts. I argue instead that when the time between successive photon interactions with a molecular gas becomes shorter than the relevant molecular lifetimes, this approximation breaks down. In that regime, the radiative transfer problem becomes intrinsically *many-body* in nature, requiring a fundamentally different description: a [many-body radiative transfer equation](https://arxiv.org/abs/2505.03888) which I derive there.
 
-## Collaborators and groups
+In most astrophysical environments, molecular and atomic lifetimes are short compared to the time between photon interactions, and the classical radiative transfer equation remains an excellent approximation. However, for a number of key spectral lines in the interstellar medium, in stellar atmospheres, and in planetary atmospheres (including the Earth's), photons no longer interact with matter one molecule at a time. Instead, I maintain that they probe a collective, many-body medium — a regime where the classical equation begins to fail and must be replaced by a more complete description.
 
-I work closely with researchers at Onsala Space Observatory (Chalmers), Leiden Observatory, Harvard CfA, and the Institute of Theoretical Astrophysics at UiO.
+## Magnetic fields in star formation and protoplanetary disks
+
+Stars form inside cold, magnetised clouds of gas, and the planets that follow form in the disks left over after the star itself has finished assembling. Magnetic fields thread this entire chain — clouds, collapsing cores, disks — and theory has long argued that they decide where gas can go, how fast it can fall in, and ultimately where matter accumulates into stars and planets. The question is not really *whether* magnetic fields matter; it is *how*, and *how much*, at each stage along the way.
+
+The honest answer is that we still struggle to measure them. The fields are weak, the gas they thread is often faint, and most of our standard observational tools give us only indirect or statistical glimpses. What I am most interested in is using the **polarization of spectral lines** to do better. When light from atoms or molecules in a magnetised gas is observed carefully, its polarization carries quantitative information about both the *strength* and the *geometry* of the field — and unlike most other diagnostics, it does so for each line and each region of the source, exactly where the gas of interest sits.
+
+Line polarization has historically been a niche tool, partly because the underlying physics is subtle and the signals are small. A lot of my work has gone into making it a reliable everyday diagnostic — see, for instance, the [TW Hya magnetic-field measurement]({{ '/papers/tw-hya-magnetic-field/' | relative_url }}) — and into applying it to the open questions of star and planet formation. I am convinced that this is the route by which we will eventually be able to *map*, rather than merely guess at, the magnetic fields that shape how stars and planets come into being.
+
+## Nuclear dynamics of extreme galaxies
+
+Cosmically speaking, we live in a rather boring epoch of the Universe's history. Had we been observing the sky some 10 billion years ago — during an era known as *Cosmic Noon* — we would have seen it glowing brightly, especially in the infrared, as colliding galaxies triggered prodigious episodes of star formation.
+
+The best present-day analogues of these Cosmic Noon systems are the luminous and ultraluminous infrared galaxies (LIRGs and ULIRGs). These nearby — though still tens of megaparsecs away — and often interacting galaxy systems offer a unique laboratory to study, in remarkable detail, how galaxies evolve under extreme conditions, how gas is transported to their nuclei, and how violent interactions shape their future.
+
+Since the advent of ALMA, we have been able to probe these galaxies with unprecedented spatial and spectral resolution. Almost all of them reveal intricate and sometimes spectacular gas flows into and out of their nuclear regions (check out [this one]({{ '/papers/zw049-oh-megamaser-fountain/' | relative_url }})). I am convinced that magnetic fields are deeply involved in shaping these flows, and I am building a research programme to prove it.
