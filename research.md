@@ -15,19 +15,6 @@ The objects change; the toolkit stays the same. Quantum chemistry to understand 
 
 What follows is a more personal map of the questions I keep returning to — slow-burning threads, not all of them yet papers.
 
-## Fundamentals of radiative transfer
-
-<figure class="paper-figure">
-  <img src="{{ '/assets/img/papers/manybody-schematic.png' | relative_url }}" alt="Schematic of many-body radiative transfer: photons interacting with a cloud of molecules over a coherence length">
-  <figcaption>Photons traversing a molecular gas: when the time between successive photon interactions is shorter than a molecule's lifetime, the relevant unit is no longer a single molecule but a coherent volume of length ℓ<sub>coh</sub>. Figure from <a href="https://arxiv.org/abs/2505.03888">Lankhaar (2025)</a>.</figcaption>
-</figure>
-
-The canonical picture of spectral-line radiative transfer rests on the three processes introduced by Einstein: absorption, stimulated emission, and spontaneous emission. Together, these form the basis of the classical radiative transfer equation, which reduces to Beer's law in the limit of pure absorption and, with the inclusion of emissivity, becomes the standard equation used throughout astronomy.
-
-In [Lankhaar 2025](https://arxiv.org/abs/2505.03888), I challenge a central assumption underlying this canonical formulation: that the interaction between radiation and matter can be represented as a simple sum of independent photon–molecule (or photon–atom) interactions — that the whole equals the sum of its parts. I argue instead that when the time between successive photon interactions with a molecular gas becomes shorter than the relevant molecular lifetimes, this approximation breaks down. In that regime, the radiative transfer problem becomes intrinsically *many-body* in nature, requiring a fundamentally different description: a [many-body radiative transfer equation](https://arxiv.org/abs/2505.03888) which I derive there.
-
-In most astrophysical environments, molecular and atomic lifetimes are short compared to the time between photon interactions, and the classical radiative transfer equation remains an excellent approximation. However, for a number of key spectral lines in the interstellar medium, in stellar atmospheres, and in planetary atmospheres (including the Earth's), photons no longer interact with matter one molecule at a time. Instead, I maintain that they probe a collective, many-body medium — a regime where the classical equation begins to fail and must be replaced by a more complete description.
-
 ## Magnetic fields in star formation and protoplanetary disks
 
 <figure class="paper-figure">
@@ -52,4 +39,17 @@ Cosmically speaking, we live in a rather boring epoch of the Universe's history.
 
 The best present-day analogues of these Cosmic Noon systems are the luminous and ultraluminous infrared galaxies (LIRGs and ULIRGs). These nearby — though still tens of megaparsecs away — and often interacting galaxy systems offer a unique laboratory to study, in remarkable detail, how galaxies evolve under extreme conditions, how gas is transported to their nuclei, and how violent interactions shape their future.
 
-Since the advent of ALMA, we have been able to probe these galaxies with unprecedented spatial and spectral resolution. Almost all of them reveal intricate and sometimes spectacular gas flows into and out of their nuclear regions (check out [this one]({{ '/papers/zw049-oh-megamaser-fountain/' | relative_url }})). I am convinced that magnetic fields are deeply involved in shaping these flows, and I am building a research programme to prove it.
+Since the advent of ALMA, we have been able to probe these galaxies with unprecedented spatial and spectral resolution. Almost all of them reveal intricate and sometimes spectacular gas flows into and out of their nuclear regions (check out [this one]({{ '/papers/zw049-oh-megamaser-fountain/' | relative_url }})). I am convinced that magnetic fields are deeply involved in shaping these flows, and I am investigating ways to prove it.
+
+## Fundamentals of radiative transfer
+
+<figure class="paper-figure">
+  <img src="{{ '/assets/img/papers/manybody-schematic.png' | relative_url }}" alt="Schematic of many-body radiative transfer: photons interacting with a cloud of molecules over a coherence length">
+  <figcaption>Photons traversing a molecular gas: when the time between successive photon interactions is shorter than a molecule's lifetime, the relevant unit is no longer a single molecule but a coherent volume of length ℓ<sub>coh</sub>. Figure from <a href="https://arxiv.org/abs/2505.03888">Lankhaar (2025)</a>.</figcaption>
+</figure>
+
+The canonical picture of spectral-line radiative transfer rests on the three processes introduced by Einstein: absorption, stimulated emission, and spontaneous emission. Together, these form the basis of the classical radiative transfer equation, which reduces to Beer's law in the limit of pure absorption and, with the inclusion of emissivity, becomes the standard equation used throughout astronomy.
+
+In [Lankhaar 2025](https://arxiv.org/abs/2505.03888), I challenge a central assumption underlying this canonical formulation: that the interaction between radiation and matter can be represented as a simple sum of independent photon–molecule (or photon–atom) interactions — that the whole equals the sum of its parts. I argue instead that when the time between successive photon interactions with a molecular gas becomes shorter than the relevant molecular lifetimes, this approximation breaks down. In that regime, the radiative transfer problem becomes intrinsically *many-body* in nature, requiring a fundamentally different description: a [many-body radiative transfer equation](https://arxiv.org/abs/2505.03888) which I derive there.
+
+In most astrophysical environments, molecular and atomic lifetimes are short compared to the time between photon interactions, and the classical radiative transfer equation remains an excellent approximation. However, for a number of key spectral lines in the interstellar medium, in stellar atmospheres, and in planetary atmospheres (including the Earth's), photons no longer interact with matter one molecule at a time. Instead, I maintain that they probe a collective, many-body medium — a regime where the classical equation begins to fail and must be replaced by a more complete description.
