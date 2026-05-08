@@ -11,8 +11,6 @@ permalink: /cv/
 
 - **2025 –** · Marie Skłodowska-Curie Fellow, Institute of Theoretical Astrophysics, University of Oslo. MSCA fellowship within the UiO DSTrain (Data Science Training) programme. Project: *PROMISES — PolaRized view Of the MagnetIc heartS of Extreme galaxieS* (Grant Agreement #101126636).
 - **2021 – 2025** · Postdoctoral Researcher, Leiden Observatory & Chalmers University of Technology. VR International Postdoc grant (3 years, 3.45 MSEK). Project: *A polarized view on stars, planets and life*.
-- **2016 – 2021** · PhD student, Chalmers University of Technology.
-- **2015** · Project Assistant, Chalmers University of Technology.
 
 ## Education
 
@@ -23,7 +21,6 @@ permalink: /cv/
 
 ## Grants & fellowships
 
-- **2026** · ERC Starting Grant — *NEOMAGIC: New Eyes On MAGnetIC fields.* Advanced to second-round evaluation after competitive selection.
 - **2025 –** · Marie Skłodowska-Curie Actions Postdoctoral Fellowship (COFUND), within the UiO DSTrain programme. Grant Agreement #101126636.
 - **2021 – 2025** · Swedish Research Council (VR) International Postdoc grant. Three years, 3.45 MSEK. Hosts: Chalmers University of Technology and Leiden Observatory.
 
@@ -34,31 +31,9 @@ permalink: /cv/
 - **2015** · KNCV Golden Master award — best MSc thesis of the year in Chemistry (Netherlands).
 - **2015** · Radboud University Honours Programme (with funding for an international exchange).
 
-## Selected invited talks
+## Invited talks
 
-- **2025** · EAS Annual Meeting — invited review on line polarization methods for magnetic fields in star formation.
-- **2025** · Western University (London, ON, Canada) — invited colloquium: *Measuring the magnetic fields of AGN and protoplanetary accretion disks.*
-- **2021** · *CON-quest* workshop — invited prospect talk on line polarization observations toward obscured LIRGs.
-- **2020** · *Magnetic Field Awakens* conference — invited review on line polarization in protoplanetary disks.
-- **2018** · Dutch Astrochemical Network — invited review: *The gaseous universe.*
-
-A wider list lives on the [Talks]({{ '/talks/' | relative_url }}) page.
-
-## Supervision
-
-- **2025 –** · Akhil Lasrado · PhD student co-supervision, University of Oslo.
-- **2024** · Francesco Chiti'Tegli · MSc, CASSUM (Chalmers Astrophysics & Space Science Summer programme).
-
-## Teaching
-
-- **2016 – 2019** · Assistant Lecturer, Chalmers University of Technology — *Electromagnetism* problem classes for *basår* students. Half-semester each year, ~3 groups of ~20 students.
-- **2013 – 2015** · Student Assistant, Radboud University Nijmegen — Classical Mechanics (40 h), Quantum Mechanics (160 h) and Mathematics (80 h). Co-wrote the Quantum Mechanics course syllabus.
-- **2011 – 2014** · Teacher's Assistant, Montessori College Nijmegen — Natural Science for first/second-year HAVO–VWO students (ages 13–15). Three school years, ~8 h/week.
-
-### Pedagogical training
-
-- **2017** · *Teaching, Learning and Evaluation* · Chalmers University of Technology.
-- **2017** · *Advanced Communication* · Chalmers University of Technology.
+A selected list lives on the [Talks]({{ '/talks/' | relative_url }}) page.
 
 ## Academic service
 
