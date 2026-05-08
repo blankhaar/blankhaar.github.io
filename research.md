@@ -17,6 +17,11 @@ What follows is a more personal map of the questions I keep returning to — slo
 
 ## Fundamentals of radiative transfer
 
+<figure class="paper-figure">
+  <img src="{{ '/assets/img/papers/manybody-schematic.png' | relative_url }}" alt="Schematic of many-body radiative transfer: photons interacting with a cloud of molecules over a coherence length">
+  <figcaption>Photons traversing a molecular gas: when the time between successive photon interactions is shorter than a molecule's lifetime, the relevant unit is no longer a single molecule but a coherent volume of length ℓ<sub>coh</sub>. Figure from <a href="https://arxiv.org/abs/2505.03888">Lankhaar (2025)</a>.</figcaption>
+</figure>
+
 The canonical picture of spectral-line radiative transfer rests on the three processes introduced by Einstein: absorption, stimulated emission, and spontaneous emission. Together, these form the basis of the classical radiative transfer equation, which reduces to Beer's law in the limit of pure absorption and, with the inclusion of emissivity, becomes the standard equation used throughout astronomy.
 
 In [Lankhaar 2025](https://arxiv.org/abs/2505.03888), I challenge a central assumption underlying this canonical formulation: that the interaction between radiation and matter can be represented as a simple sum of independent photon–molecule (or photon–atom) interactions — that the whole equals the sum of its parts. I argue instead that when the time between successive photon interactions with a molecular gas becomes shorter than the relevant molecular lifetimes, this approximation breaks down. In that regime, the radiative transfer problem becomes intrinsically *many-body* in nature, requiring a fundamentally different description: a [many-body radiative transfer equation](https://arxiv.org/abs/2505.03888) which I derive there.
@@ -25,6 +30,11 @@ In most astrophysical environments, molecular and atomic lifetimes are short com
 
 ## Magnetic fields in star formation and protoplanetary disks
 
+<figure class="paper-figure">
+  <img src="{{ '/assets/img/papers/twhya-artwork.jpg' | relative_url }}" alt="Artist's impression of magnetic field lines threading the TW Hya protoplanetary disk">
+  <figcaption>Artist's impression of the magnetic field threading TW Hya's planet-forming disk — its morphology changing as it crosses gaps and rings. Credit: NSF / AUI / NSF NRAO / M. Weiss, accompanying <a href="{{ '/papers/tw-hya-magnetic-field/' | relative_url }}">Teague, Lankhaar et al. (2025)</a>.</figcaption>
+</figure>
+
 Stars form inside cold, magnetised clouds of gas, and the planets that follow form in the disks left over after the star itself has finished assembling. Magnetic fields thread this entire chain — clouds, collapsing cores, disks — and theory has long argued that they decide where gas can go, how fast it can fall in, and ultimately where matter accumulates into stars and planets. The question is not really *whether* magnetic fields matter; it is *how*, and *how much*, at each stage along the way.
 
 The honest answer is that we still struggle to measure them. The fields are weak, the gas they thread is often faint, and most of our standard observational tools give us only indirect or statistical glimpses. What I am most interested in is using the **polarization of spectral lines** to do better. When light from atoms or molecules in a magnetised gas is observed carefully, its polarization carries quantitative information about both the *strength* and the *geometry* of the field — and unlike most other diagnostics, it does so for each line and each region of the source, exactly where the gas of interest sits.
@@ -32,6 +42,11 @@ The honest answer is that we still struggle to measure them. The fields are weak
 Line polarization has historically been a niche tool, partly because the underlying physics is subtle and the signals are small. A lot of my work has gone into making it a reliable everyday diagnostic — see, for instance, the [TW Hya magnetic-field measurement]({{ '/papers/tw-hya-magnetic-field/' | relative_url }}) — and into applying it to the open questions of star and planet formation. I am convinced that this is the route by which we will eventually be able to *map*, rather than merely guess at, the magnetic fields that shape how stars and planets come into being.
 
 ## Nuclear dynamics of extreme galaxies
+
+<figure class="paper-figure">
+  <img src="{{ '/assets/img/papers/zw049-fountain-cartoon.png' | relative_url }}" alt="Cartoon of the two-component nuclear outflow in Zw049.057">
+  <figcaption>The nuclear region of Zw049.057: a fast collimated outflow (red/blue arrows) sheathed in a slower, wide-angle "fountain" (teal cones), traced by OH and formaldehyde megamasers and a large-scale radio jet. Figure from <a href="{{ '/papers/zw049-oh-megamaser-fountain/' | relative_url }}">Lankhaar et al. (2024)</a>.</figcaption>
+</figure>
 
 Cosmically speaking, we live in a rather boring epoch of the Universe's history. Had we been observing the sky some 10 billion years ago — during an era known as *Cosmic Noon* — we would have seen it glowing brightly, especially in the infrared, as colliding galaxies triggered prodigious episodes of star formation.
 

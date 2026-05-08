@@ -7,6 +7,7 @@ permalink: /talks/
 
 <figure class="paper-figure">
   <img src="{{ '/assets/img/presenting.jpg' | relative_url }}" alt="Boy Lankhaar giving a talk on ALMA observations">
+  <figcaption>Photo: Christoffer Hals · dScience, University of Oslo.</figcaption>
 </figure>
 
 ## Invited talks
