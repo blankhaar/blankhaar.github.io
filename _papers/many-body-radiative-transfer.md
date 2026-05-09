@@ -6,7 +6,7 @@ journal: "A&A (in review)"
 year: 2025
 date: 2025-05-06
 arxiv: "2505.03888"
-summary: A foundational rewrite of the line radiative-transfer equation: when photons interact with molecules faster than the molecules can react individually, the gas behaves as a many-body system and the standard equation needs a correction.
+summary: A foundational rewrite of the line radiative-transfer equation — when photons interact with molecules faster than the molecules can react individually, the gas behaves as a many-body system and the standard equation needs a correction.
 ---
 
 ## In one sentence
