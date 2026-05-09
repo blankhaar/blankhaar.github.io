@@ -7,7 +7,7 @@ permalink: /research/
 
 ## What I work on
 
-I am interested in cosmic magnetic fields. They shape much of the visible universe — driving the formation of stars and planets, organising the gas around evolved stars, and powering some of the most extreme phenomena around galactic nuclei — and yet they remain stubbornly difficult to measure in the places where they actually do their work.
+I am interested in cosmic magnetic fields. They shape much of the visible universe — driving the formation of stars and planets, helping launch the outflows of evolved stars, and powering some of the most extreme phenomena around galactic nuclei — and yet they remain stubbornly difficult to measure in the places where they actually do their work.
 
 The thread running through my research is the **polarized radiative transfer** of molecular and atomic spectral lines. Molecules in a magnetised gas absorb and emit light whose polarization carries quantitative information about both the *strength* and the *geometry* of the local magnetic field. Combined with careful theory, this gives us a direct window onto magnetism in environments that would otherwise be hidden: the cold dense cores of molecular clouds, the disks where planets are assembled, the circumstellar envelopes of evolved stars, and the dust-buried nuclei of luminous galaxies.
 
