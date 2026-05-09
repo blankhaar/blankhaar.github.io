@@ -11,6 +11,7 @@ doi: 10.1051/0004-6361/202450065
 ads: https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.163L
 arxiv: "2406.07620"
 summary: A nearby buried galactic nucleus is launching a two-speed wind — a fast jet-like component that escapes, wrapped in a slower one that rains back down — and we see it through one of the brightest molecular masers known.
+featured: true
 ---
 
 ## In one sentence

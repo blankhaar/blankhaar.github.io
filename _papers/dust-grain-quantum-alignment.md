@@ -7,6 +7,7 @@ year: 2026
 date: 2026-04-01
 arxiv: "2604.26001"
 summary: A quantum-mechanical theory of the smallest interstellar dust grains, predicting when their microwave glow becomes polarized — a possible contaminant of CMB B-mode searches.
+featured: true
 ---
 
 ## In one sentence

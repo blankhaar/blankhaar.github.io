@@ -31,7 +31,7 @@ title: Home
     <a href="{{ '/papers/' | relative_url }}">All papers →</a>
   </div>
   <ul class="paper-cards">
-    {% assign featured = site.papers | sort: 'date' | reverse | slice: 0, 3 %}
+    {% assign featured = site.papers | where: 'featured', true | sort: 'date' | reverse %}
     {% for paper in featured %}
     <li class="paper-card">
       <h3><a href="{{ paper.url | relative_url }}">{{ paper.title }}</a></h3>

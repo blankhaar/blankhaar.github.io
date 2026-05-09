@@ -12,6 +12,7 @@ issue: "1"
 pages: L6
 ads: https://ui.adsabs.harvard.edu/abs/2025ApJ...991L...6T
 summary: First radially resolved measurement of the magnetic field threading a planet-forming disk — about 10 milligauss, switching from a vertical to an in-plane orientation across a known gap.
+featured: true
 press:
   - outlet: NRAO press release
     title: "Astronomers Reveal Planet Building's Secret Ingredient: Magnetism"
