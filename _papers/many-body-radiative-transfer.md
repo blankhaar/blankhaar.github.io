@@ -2,7 +2,7 @@
 title: Many-body effects in the line radiative transfer equation
 slug: many-body-radiative-transfer
 authors: B. Lankhaar
-journal: A&A (in review)
+journal: "A&A (in review)"
 year: 2025
 date: 2025-05-06
 arxiv: "2505.03888"
