@@ -13,7 +13,7 @@ The thread running through my research is the **polarized radiative transfer** o
 
 The objects change; the toolkit stays the same. Quantum chemistry to understand how molecules respond to magnetic fields. Radiative-transfer theory to follow the polarized signal as it propagates through the gas. And observations from facilities like ALMA, the VLA, the SKA precursors, and — soon — the SKA itself, to confront our predictions with reality. A substantial part of my time goes into building this toolkit; the open-source codes [PORTAL and CHAMP]({{ '/code/' | relative_url }}) are two of its main pieces.
 
-What follows is a more personal map of the questions I keep returning to — slow-burning threads, not all of them yet papers.
+What follows is a more personal map of the questions I keep returning to.
 
 ## Magnetic fields in star formation and protoplanetary disks
 
