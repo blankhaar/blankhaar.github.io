@@ -22,7 +22,7 @@ title: Home
 <section>
   <div class="section-title"><h2>About</h2></div>
   <p>I am a postdoctoral researcher at the Institute of Theoretical Astrophysics at the University of Oslo, working as an MSCA Fellow within the DSTrain programme. My research interests sit at the intersection of theoretical chemistry, radiative transfer, and radio astronomy: I want to understand the role of magnetic fields in shaping astrophysical systems, from the disks where planets form to the centres of galaxies.</p>
-  <p>Before Oslo, I was a postdoctoral researcher at Leiden Observatory and at Chalmers University of Technology (Onsala Space Observatory), supported by a Swedish Research Council grant. My PhD thesis, <em>Tracing Cosmic Magnetic Fields Using Molecules</em>, developed quantum-chemical and modelling tools to interpret polarized molecular line emission.</p>
+  <p>Before Oslo, I was a postdoctoral researcher at Leiden Observatory and at Chalmers University of Technology (Onsala Space Observatory), supported by a Swedish Research Council grant. My PhD thesis, <a href="https://research.chalmers.se/publication/522154/file/522154_Fulltext.pdf"><em>Tracing Cosmic Magnetic Fields Using Molecules</em></a>, developed quantum-chemical and modelling tools to interpret polarized molecular line emission.</p>
 </section>
 
 <section>

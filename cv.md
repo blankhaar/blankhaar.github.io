@@ -14,7 +14,7 @@ permalink: /cv/
 
 ## Education
 
-- **2021** · PhD in Astronomy, Chalmers University of Technology. Thesis: *Tracing cosmic magnetic fields using molecules*. Advisor: Prof. Wouter Vlemmings.
+- **2021** · PhD in Astronomy, Chalmers University of Technology. Thesis: [*Tracing cosmic magnetic fields using molecules*](https://research.chalmers.se/publication/522154/file/522154_Fulltext.pdf). Advisor: Prof. Wouter Vlemmings.
 - **2015** · MSc in Theoretical Chemistry (minor in Physics), Radboud University Nijmegen. Thesis: *Hyperfine structure and Zeeman effects in methanol*. Advisors: Prof. Gerrit C. Groenenboom and Prof. Ad van der Avoird. *Awarded the KNCV Golden Master award (best Master Thesis in Chemistry in the Netherlands).*
 - **2015** · Radboud University Honours Programme — exchange to the University of Warwick. Project on quantum-mechanical smoothing of aqueous nano-droplets via path-integral molecular dynamics. Advisor: Dr. Scott Habershon.
 - **2013** · BSc in Chemistry (minor in Physics), Radboud University Nijmegen. Thesis on Equation-of-Motion Coupled-Cluster calculations of NaHe⁺ and ScHe⁺. Advisor: Prof. Gerrit C. Groenenboom.
