@@ -2,7 +2,7 @@
 title: Many-body effects in the line radiative transfer equation
 slug: many-body-radiative-transfer
 authors: B. Lankhaar
-journal: "A&A (in review)"
+journal: "In review"
 year: 2025
 date: 2025-05-06
 arxiv: "2505.03888"
@@ -15,7 +15,7 @@ The classical line radiative-transfer equation that astronomers use everywhere a
 
 ## What's the question?
 
-The radiative-transfer equation that astronomy is built on — the Einstein workhorse — rests on a quietly heroic assumption: that the interaction of light with matter can be written as a sum of independent photon-molecule events. The whole equals the sum of its parts. For optically thin or sparse environments that is fine. But in a sufficiently dense, sufficiently strongly emitting line, photons start arriving at individual molecules faster than the molecules can respond — and the gas should behave as a *single, collective, many-body* emitter rather than as a swarm of independent ones. What does the equation look like in that regime?
+The radiative-transfer equation that astronomy is built on rests on a quietly heroic assumption: that the interaction of light with matter can be written as a sum of independent photon-molecule events. The whole equals the sum of its parts. For optically thin or sparse environments that is fine. But in a sufficiently dense, sufficiently strongly emitting line, photons start arriving at individual molecules faster than the molecules can respond — and the gas should behave as a *single, collective, many-body* emitter rather than as a swarm of independent ones. What does the equation look like in that regime?
 
 ## What did I do?
 
