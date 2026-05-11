@@ -16,9 +16,9 @@ The smallest interstellar dust grains are too quantum-mechanical to be described
 
 ## What's the question?
 
-Tiny rapidly spinning dust grains in the interstellar medium emit microwave radiation — the so-called **anomalous microwave emission** (AME). AME sits in a frustrating part of the spectrum: it is right where cosmologists hunt for the faint polarization patterns imprinted on the cosmic microwave background by primordial gravitational waves. If spinning dust is polarized at all, it is a foreground that contaminates that search. We need a sharp answer to: *can it be polarized, and how much?*
+Tiny rapidly spinning dust grains in the interstellar medium are thought to be responsible for a microwave glow known as **anomalous microwave emission** (AME). AME sits in a frustrating part of the spectrum: it is right where cosmologists hunt for the faint polarization patterns imprinted on the cosmic microwave background by primordial gravitational waves. If spinning dust is polarized at all, it is a foreground that contaminates that search. We need a sharp answer to: *can it be polarized, and how much?*
 
-The standard theory of grain alignment treats grains classically — as little spinning rocks. That works for grains that contain millions of atoms. For the tiniest grains, which dominate AME, rotational angular momentum is quantised, and the classical picture starts to fail.
+The standard theory of grain alignment treats grains classically. That works for grains that contain millions of atoms. For the tiniest grains, which dominate AME, that classical picture starts to fail.
 
 ## What did I do?
 
