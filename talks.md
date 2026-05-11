@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talks
-subtitle: Where and what I've spoken about — and an open invitation if you would like me to give a talk for you.
+subtitle: Where and what I've spoken about.
 permalink: /talks/
 ---
 
@@ -10,13 +10,13 @@ permalink: /talks/
   <figcaption>Photo: Christoffer Hals · dScience, University of Oslo.</figcaption>
 </figure>
 
-I enjoy giving talks across the full range — from technical seminars and conference contributions to colloquia and public lectures — and I try to make them genuinely pedagogical regardless of the audience. If you would like me to speak at your group, conference, or event, please [get in touch](#) (my email is in the footer).
+I enjoy giving talks across the full range and I try to make them genuinely pedagogical regardless of the audience. If you want me to talk, [get in touch](#) (my email is in the footer)!
 
 ## Public engagement and outreach
 
 I have given public lectures at the **Gothenburg Science Festival** and for the local Astronomical Club, given tours and high-school visits at **Onsala Space Observatory**, and been interviewed for Dutch national radio (Radio 1) and featured in *Elsevier Weekblad* and *ETC Göteborg*. A popular-science video accompanying my *Nature Astronomy* paper on methanol masers — [*Magnetic secrets of methanol in space*](https://www.youtube.com/watch?v=2X2d5ZbTdIY) — has reached around 20,000 viewers across YouTube and Facebook.
 
-## All talks
+## Scientific talks 
 
 <ul class="simple-list">
   <li>
