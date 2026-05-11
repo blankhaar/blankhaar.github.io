@@ -24,7 +24,7 @@ Cosmic masers — natural radio amplifiers in molecules like SiO, H₂O, and met
 
 ## What did we do?
 
-I built CHAMP — *CHAracterizes Maser Polarization* — a 1-D radiative-transfer solver that handles all of the above in one self-consistent calculation. Applied to SiO and water masers, it reveals which features of an observed polarization spectrum are diagnostic of the magnetic field and which are diagnostic of pumping geometry, transition saturation, or hyperfine structure.
+I built CHAMP — *CHAracterizing Maser Polarization* — a 1-D radiative-transfer solver that handles all of the above in one self-consistent calculation. Applied to SiO and water masers, it reveals which features of an observed polarization spectrum are diagnostic of the magnetic field and which are diagnostic of pumping geometry, transition saturation, or hyperfine structure.
 
 ## Why does it matter?
 

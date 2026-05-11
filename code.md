@@ -18,7 +18,7 @@ PORTAL can be used standalone in LTE, or as a polarization post-processor for re
 
 ## CHAMP
 
-**CHAracterizes Maser Polarization** — a 1D radiative-transfer solver for the polarization of astrophysical masers.
+**CHAracterizing Maser Polarization** — a 1D radiative-transfer solver for the polarization of astrophysical masers.
 
 CHAMP handles the regime that classical maser-polarization theory cannot: arbitrarily high saturation, high angular momentum, and the full hyperfine multiplicity of the maser transition. It also lets you turn on non-Zeeman polarizing mechanisms — anisotropic pumping, polarized seed radiation — so you can ask how much of an observed polarization signal is really tracing the magnetic field, and how much is something else.
 
