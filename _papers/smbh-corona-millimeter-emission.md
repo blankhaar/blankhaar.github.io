@@ -31,4 +31,4 @@ Direct millimetre observations of the corona — if the interpretation holds —
 
 ## My role
 
-Co-author. Contributed to the modelling and interpretation of the maser and polarization signatures from the same nuclei that anchor the broader picture.
+Co-author. I spent several sessions with the lead author, Santiago del Palacio — an excellent theorist — sharpening and critiquing the model.
