@@ -23,7 +23,7 @@ Theory has long required protoplanetary disks to be magnetised: magnetic fields 
 
 ## What did we do?
 
-We obtained very sensitive ALMA observations of CN N=2-1 hyperfine transitions toward TW Hya, the closest and best-studied protoplanetary disk, and searched for the circular polarization that the Zeeman effect should produce. We found none — and the resulting upper limit on the line-of-sight field, |B<sub>z</sub>| < 0.8 mG, is genuinely tight. We additionally detected marginal continuum dust polarization consistent with radiatively aligned grains.
+We obtained very sensitive ALMA observations of CN N=2-1 hyperfine transitions toward TW Hya, the closest and best-studied protoplanetary disk, and searched for the circular polarization that the Zeeman effect should produce. We found none — and the resulting upper limit on the line-of-sight field, \|B<sub>z</sub>\| < 0.8 mG, is genuinely tight. We additionally detected marginal continuum dust polarization consistent with radiatively aligned grains.
 
 ## Why does it matter?
 
@@ -31,4 +31,4 @@ Even a *non-detection* can be a strong test. Our limits are too low for some cla
 
 ## My role
 
-Second author. Performed the radiative-transfer modelling that turns the observed signal into a quantitative field constraint, wrote the appendix, and was closely involved in the interpretation of the data.
+Second author. Set up the CN Zeeman models used to derive the upper limits, and was closely involved in the interpretation of the data. Wrote the appendix.
