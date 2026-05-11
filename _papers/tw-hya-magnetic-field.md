@@ -39,4 +39,4 @@ A field that varies smoothly with radius — and *changes orientation* at a real
 
 ## My role
 
-I contributed the modelling that connects observed CN line widths to magnetic-field strengths, including the radiative-transfer and quantum-mechanical Zeeman framework needed to interpret the data quantitatively.
+I developed this novel Zeeman-broadening method together with Richard Teague, and contributed the modelling that connects observed CN line widths to magnetic-field strengths — including the radiative-transfer and quantum-mechanical Zeeman framework needed to interpret the data quantitatively.
