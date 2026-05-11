@@ -31,4 +31,4 @@ If ARS is at work in even a fraction of the molecular regions where unusual pola
 
 ## My role
 
-Co-author. Helped sharpen the underlying theory of resonance scattering and co-developed the formalism.
+Co-author. Helped sharpen the underlying theory of resonance scattering.
