@@ -23,7 +23,7 @@ Water-vapor megamasers light up the molecular accretion disks around active gala
 
 ## What did we do?
 
-The team observed NGC 1068's water-megamaser system with VLA and detected linearly polarized H₂O maser emission for the first time in any extragalactic source. The polarization vectors lie perpendicular to filamentary disk structures seen in continuum, which constrains the magnetic field threading the molecular disk to lie within ~35° of the sky plane. The disk geometry also yielded a refined supermassive black hole mass, (16.6 ± 0.1) × 10⁶ M<sub>⊙</sub>, and the configuration is consistent with magnetic instabilities playing a role in driving the disk's outflow.
+The team observed the nuclear region of NGC 1068 at sub-parsec resolution with the High Sensitivity Array — VLBA augmented by the VLA and the Green Bank Telescope for extra sensitivity — and detected linearly polarized H₂O maser emission, among other features, for the first time in any extragalactic source. The polarization vectors lie perpendicular to filamentary disk structures seen in continuum, which constrains the magnetic field threading the molecular disk to lie within ~35° of the sky plane. The disk geometry also yielded a refined supermassive black hole mass, (16.6 ± 0.1) × 10⁶ M<sub>⊙</sub>, and the configuration is consistent with magnetic instabilities playing a role in driving the disk's outflow.
 
 ## Why does it matter?
 
@@ -31,4 +31,4 @@ Water megamasers are how we routinely measure SMBH masses in the local Universe;
 
 ## My role
 
-Co-author. Contributed the maser-polarization modelling that turns the observed polarization vectors and intensities into a constraint on the magnetic-field geometry.
+Co-author. Contributed the modelling and interpretation that turn the observed polarization vectors and intensities into a constraint on the magnetic-field geometry.
