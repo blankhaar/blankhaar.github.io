@@ -31,4 +31,4 @@ This is the methodological foundation that, two years later, was used to make th
 
 ## My role
 
-Co-developer of the Zeeman-broadening method. Performed the radiative-transfer simulations and wrote the paper.
+First author. Led the development of the Zeeman-broadening method, performed the radiative-transfer simulations, and wrote the paper.
