@@ -7,7 +7,7 @@ title: Home
   <img class="hero-photo" src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Boy Lankhaar">
   <div>
     <h1>Boy Lankhaar</h1>
-    <p class="role">Postdoctoral Fellow · Institute of Theoretical Astrophysics, University of Oslo</p>
+    <p class="role">MSCA Postdoctoral Fellow · Institute of Theoretical Astrophysics, University of Oslo</p>
     <p>I study cosmic magnetic fields by using molecules as messengers — combining theory, quantum chemistry, and radio observations of star-forming regions, evolved stars, and galaxies.</p>
     <div class="hero-links">
       {% include email.html %}
