@@ -10,7 +10,7 @@ pages: "4464-4480"
 doi: 10.1093/mnras/stab2222
 arxiv: "2108.01164"
 ads: https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.4464W
-summary: The gold-standard maser-modelling algorithm is rigorous, but assumes a quasi-steady state and is expensive to run. Here is the generalisation that extends it — with the same rigor, and a manageable cost — into the transient superradiance regime.
+summary: The most rigorous maser-modelling algorithm still misses the most extreme *transient superradiance* regime. Here is the generalisation that extends it — with the same rigor, and a manageable cost.
 ---
 
 ## In one sentence
@@ -19,11 +19,11 @@ We extend the venerable Menegozzi & Lamb algorithm — the most rigorous formula
 
 ## What's the question?
 
-The most rigorous treatment of maser radiative transfer — Menegozzi & Lamb (1978) — solves the underlying Maxwell-Bloch equations in a quasi-steady-state limit. It is the gold standard against which simpler maser codes are usually checked. But the quasi-steady assumption fundamentally rules out *transient* phenomena: sudden flares, sub-second bursts, possibly even some fast radio bursts. In those events the maser switches on faster than the populations can equilibrate, entering R. H. Dicke's *superradiance* regime where the molecules emit cooperatively — and the standard formulation cannot describe that.
+Most astrophysical maser modelling makes a *quasi-steady-state* approximation — assuming the maser populations and radiation field reach equilibrium fast compared to the timescales of interest. The Menegozzi & Lamb (1978) algorithm — originally developed for laser physics — is a notable exception: it solves the underlying Maxwell-Bloch equations rigorously, without that approximation, and is for that reason the gold standard against which simpler maser codes are usually checked. Even M&L, however, runs into a wall at the most extreme *transient* phenomena — sudden flares, sub-second bursts, possibly even some fast radio bursts — where the maser switches on faster than the populations can equilibrate and enters R. H. Dicke's *superradiance* regime, the cooperative emission of many molecules together.
 
 ## What did we do?
 
-We worked from the underlying Maxwell-Bloch equations and reordered the operations — performing the velocity-distribution integration *before* moving to the Fourier representation, rather than after. The result is an Integral-Fourier algorithm that converges in the transient superradiance regime at all field strengths, with computational cost scaling linearly in the number of velocity channels, and that reduces to the original Menegozzi & Lamb algorithm in the quasi-steady limit — a strict generalisation that keeps M&L's rigor without paying the runaway price of a naïve extension. We benchmarked the framework against simulations of transient superradiance.
+We worked from the underlying Maxwell-Bloch equations and reordered the operations — performing the velocity-distribution integration *before* moving to the Fourier representation, rather than after. The result is an Integral-Fourier algorithm that converges in the transient superradiance regime at all field strengths, with computational cost scaling linearly in the number of velocity channels, and that reduces to the original Menegozzi & Lamb algorithm outside the extreme-transient regime — a strict generalisation that keeps M&L's rigor while extending it into territory the original could not handle. We benchmarked the framework against simulations of transient superradiance.
 
 ## Why does it matter?
 
