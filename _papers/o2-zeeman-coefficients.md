@@ -8,7 +8,7 @@ date: 2019-02-01
 volume: "224"
 pages: "431-438"
 doi: 10.1016/j.jqsrt.2018.12.004
-summary: Magnetic broadening of molecular-oxygen lines matters for satellite remote sensing of the Earth's atmosphere — here is the proper accounting.
+summary: A small piece of molecular physics with surprisingly broad reach — from satellite remote sensing of the Earth's atmosphere to the CMB foreground that atmospheric oxygen imprints on ground-based cosmology experiments.
 ---
 
 ## In one sentence
@@ -25,7 +25,7 @@ We computed updated Zeeman splitting coefficients for the relevant O₂ lines an
 
 ## Why does it matter?
 
-The coefficients we tabulated drop directly into operational radiative-transfer codes used by atmospheric remote-sensing groups, removing a known source of systematic error from temperature retrievals. It is also a clean illustration that the same Zeeman physics that drives my astrophysical work matters in much closer-to-home applications.
+The coefficients we tabulated drop directly into operational radiative-transfer codes used by atmospheric remote-sensing groups, removing a known source of systematic error from temperature retrievals. They later showed up in a quite different context, too: the CLASS collaboration ([Petroff et al. 2020](https://doi.org/10.3847/1538-4357/ab64e2)) used them to model — and *detect*, at Q band — the polarized atmospheric foreground that the Zeeman effect in O₂ produces for ground-based CMB experiments. A small piece of molecular physics that has turned out to matter from satellite weather sounding all the way up to the cosmic microwave background.
 
 ## My role
 
