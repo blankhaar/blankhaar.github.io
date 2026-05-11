@@ -31,4 +31,4 @@ Mass-loss from AGB stars is a major Galactic recycling channel. Mapping the magn
 
 ## My role
 
-Co-author. Contributed the radiative-transfer machinery (PORTAL) used to interpret the polarization, and the underlying alignment theory.
+Co-author. Contributed the radiative-transfer machinery ([PORTAL]({{ '/papers/portal-3d-polarized-radiative-transfer/' | relative_url }})) used to interpret the polarization, and the underlying alignment theory.

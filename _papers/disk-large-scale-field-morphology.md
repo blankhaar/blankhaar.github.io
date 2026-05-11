@@ -22,7 +22,7 @@ Polarized line emission carries the information you need to reconstruct the magn
 
 ## What did we do?
 
-Using PORTAL, I ran 3-D polarized radiative-transfer models of a fiducial disk over a grid of molecular tracers (CO, HCN, CN, and others) and physical conditions, mapping where each species polarizes meaningfully. The headline result: molecules with strong dipole moments and modest collisional rate coefficients — HCN being the prime example — polarize across most of the disk and reach the highest signal levels in the dense inner regions where magnetic fields matter most for accretion. CO, by contrast, only polarizes meaningfully in the cold outer disk.
+Using [PORTAL]({{ '/papers/portal-3d-polarized-radiative-transfer/' | relative_url }}), I ran 3-D polarized radiative-transfer models of a fiducial disk over a grid of molecular tracers (CO, HCN, CN, and others) and physical conditions, mapping where each species polarizes meaningfully. The headline result: molecules with strong dipole moments and modest collisional rate coefficients — HCN being the prime example — polarize across most of the disk and reach the highest signal levels in the dense inner regions where magnetic fields matter most for accretion. CO, by contrast, only polarizes meaningfully in the cold outer disk.
 
 ## Why does it matter?
 
