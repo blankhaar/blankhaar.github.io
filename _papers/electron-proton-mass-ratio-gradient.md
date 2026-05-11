@@ -23,7 +23,7 @@ Some theories beyond the Standard Model predict that the values of fundamental d
 
 ## What did we do?
 
-We used Class I methanol masers — common, narrow, and bright — observed at two transitions (44 and 95 GHz) whose frequency ratio is sensitive to μ. By comparing line centroids of the two transitions toward many sources spread across galactocentric distances of 4–12 kpc, we placed one of the most stringent constraints to date on the spatial gradient |k<sub>μ</sub>| < 2 × 10⁻⁹ kpc⁻¹.
+We used Class I methanol masers — common, narrow, and bright — observed at two transitions (44 and 95 GHz) whose frequency ratio is sensitive to μ. By comparing line centroids of the two transitions toward many sources spread across galactocentric distances of 4–12 kpc, we placed one of the most stringent constraints to date on the spatial gradient, \|k<sub>μ</sub>\| < 2 × 10⁻⁹ kpc⁻¹.
 
 ## Why does it matter?
 
