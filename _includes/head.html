@@ -6,3 +6,41 @@
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 <link rel="alternate" type="application/atom+xml" href="{{ '/feed.xml' | relative_url }}" title="{{ site.title }}">
 {% seo %}
+{% if page.url == "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "{{ site.url }}/#person",
+  "name": "Boy Lankhaar",
+  "givenName": "Boy",
+  "familyName": "Lankhaar",
+  "url": "{{ site.url }}",
+  "image": "{{ '/assets/img/profile.jpg' | absolute_url }}",
+  "jobTitle": "Marie Skłodowska-Curie postdoctoral fellow",
+  "description": {{ site.description | strip_newlines | strip | jsonify }},
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Institute of Theoretical Astrophysics, University of Oslo"
+  },
+  "alumniOf": {
+    "@type": "Organization",
+    "name": "Chalmers University of Technology"
+  },
+  "knowsAbout": [
+    "Astrophysics",
+    "Cosmic magnetic fields",
+    "Radiative transfer",
+    "Molecular spectroscopy",
+    "Star formation",
+    "Galactic nuclei"
+  ],
+  "sameAs": [
+    "https://orcid.org/0000-0001-8975-9926",
+    "https://scholar.google.com/citations?user=Mw_5XrgAAAAJ",
+    "https://github.com/blankhaar",
+    "https://www.linkedin.com/in/boy-lankhaar-752a8536"
+  ]
+}
+</script>
+{% endif %}
