@@ -14,7 +14,7 @@ I enjoy giving talks across the full range — from technical seminars and confe
 
 ## Public engagement and outreach
 
-Outreach work happens for me at the intersection of two things I value: explaining science in plain language, and meeting the audiences my research is ultimately for. I have given public lectures at the **Gothenburg Science Festival** and for the local Astronomical Club, given tours and high-school visits at **Onsala Space Observatory** (including as part of Sweden's *prao* programme), and been interviewed for Dutch national radio (Radio 1) and featured in *Elsevier Weekblad* and *ETC Göteborg*. A popular-science video accompanying my *Nature Astronomy* paper on methanol masers — [*Magnetic secrets of methanol in space*](https://www.youtube.com/watch?v=2X2d5ZbTdIY) — has reached around 20,000 viewers across YouTube and Facebook.
+I have given public lectures at the **Gothenburg Science Festival** and for the local Astronomical Club, given tours and high-school visits at **Onsala Space Observatory** (including as part of Sweden's *prao* programme), and been interviewed for Dutch national radio (Radio 1) and featured in *Elsevier Weekblad* and *ETC Göteborg*. A popular-science video accompanying my *Nature Astronomy* paper on methanol masers — [*Magnetic secrets of methanol in space*](https://www.youtube.com/watch?v=2X2d5ZbTdIY) — has reached around 20,000 viewers across YouTube and Facebook.
 
 ## All talks
 
