@@ -10,13 +10,13 @@ pages: A163
 doi: 10.1051/0004-6361/202450065
 ads: https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.163L
 arxiv: "2406.07620"
-summary: A nearby buried galactic nucleus is launching a two-speed wind — a fast jet-like component that escapes, wrapped in a slower one that rains back down — and we see it through one of the brightest molecular masers known.
+summary: A nearby buried galactic nucleus is launching a two-speed wind — a fast collimated jet that escapes, wrapped in a slower "fountain" that rains back down — traced by high-velocity HCN emission and one of the brightest OH megamasers known.
 featured: true
 ---
 
 ## In one sentence
 
-Using high-resolution radio and millimetre observations of the luminous infrared galaxy Zw049.057, we caught its hidden nucleus driving a two-component outflow — a fast collimated jet that escapes the galaxy, sheathed in a slower wide-angle "fountain" that will eventually rain back down — and traced both directly through molecular maser emission.
+Using high-resolution radio and millimetre observations of the luminous infrared galaxy Zw049.057, we caught its hidden nucleus driving a two-component outflow: a fast collimated jet, traced by the high-velocity wings of HCN emission, sheathed in a slower wide-angle "fountain" traced by the source's bright OH megamaser.
 
 ## What's the question?
 

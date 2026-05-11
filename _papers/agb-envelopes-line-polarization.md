@@ -23,7 +23,7 @@ Asymptotic giant branch (AGB) stars are dying low-mass stars whose dusty winds e
 
 ## What did we do?
 
-We obtained ALMA observations of several molecular lines toward CW Leo (the carbon-rich workhorse of AGB studies) and R Leo, and detected linear polarization at the few-percent level in multiple lines. We then modelled the data using PORTAL, accounting jointly for the Goldreich-Kylafis effect (collisional alignment of molecular levels) and radiative alignment. The result: in CW Leo we recover a magnetic-field strength that varies with distance from the star; in R Leo, the outer field appears to be carried by the wind itself.
+We obtained ALMA observations of several molecular lines toward CW Leo (the carbon-rich workhorse of AGB studies) and R Leo, and detected linear polarization at the few-percent level in multiple lines. We then modelled the data using [PORTAL]({{ '/papers/portal-3d-polarized-radiative-transfer/' | relative_url }}), accounting jointly for the **Goldreich-Kylafis effect** — magnetic alignment, in which the magnetic field sets the polarization direction — and its competitor, **radiative alignment**, in which the radiation field does. The two regimes hand over to one another at a critical magnetic-field strength, and seeing the spatial transition between them across the envelope let us constrain the field strength in an entirely novel way. In CW Leo, the recovered field varies with distance from the star; in R Leo, the outer field appears to be carried by the wind itself.
 
 ## Why does it matter?
 

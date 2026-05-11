@@ -10,16 +10,16 @@ pages: A117
 doi: 10.1051/0004-6361/202348420
 arxiv: "2401.04185"
 ads: https://ui.adsabs.harvard.edu/abs/2024A%26A...683A.117L
-summary: Many of the most striking polarization signatures of cosmic masers are not magnetic at all — they come from the geometry of how the maser is pumped. Here is the first comprehensive code that handles both.
+summary: A unified maser-polarization framework that pins down how much of an observed signal is set by the magnetic field, how much is boosted by the geometry of how the maser is pumped, and where the pumping geometry can mimic a Zeeman signal.
 ---
 
 ## In one sentence
 
-A unified maser-polarization code that — for the first time — handles anisotropic pumping (which polarizes masers all by itself, no magnetic field required), magnetic-field effects, and full saturation behaviour in a single framework.
+A unified maser-polarization code — the first to model **anisotropic pumping**, magnetic-field effects, and full saturation behaviour simultaneously — disentangling how much of an observed signal is set by the magnetic field, how much is boosted by the geometry of how the maser is pumped, and where the pumping can produce non-Zeeman *circular* polarization that masquerades as a magnetic signature.
 
 ## What's the question?
 
-Cosmic masers — natural radio amplifiers in molecules like CH₃OH, H₂O and SiO — are often strongly polarized. For decades, that polarization was usually interpreted as a magnetic-field signature via the Zeeman effect. But masers can also be *intrinsically* polarized by their pumping geometry alone: when the radiation that excites them comes from a preferred direction, the upper level of the maser transition is aligned, and the maser emission is polarized as a result. That non-Zeeman contribution had never been modelled comprehensively *alongside* the rest of the maser physics.
+Cosmic masers — natural radio amplifiers in molecules like CH₃OH, H₂O and SiO — are often strongly polarized. The magnetic field, via the Zeeman effect, sets the *direction* of that polarization, but the magnetic field alone struggles to account for its *strength*: SiO masers in particular routinely show linear polarization fractions of tens of percent, far in excess of what a typical interstellar field would produce on its own. The missing ingredient is **anisotropic pumping** — when the radiation that excites the maser comes from a preferred direction, the upper level of the maser transition is *aligned*, and the polarization is boosted well above the bare-Zeeman level (while the magnetic field continues to set the polarization angle). The same anisotropy can, when the magnetic-field direction changes along the propagation through the maser, also produce *circular* polarization that masquerades as a genuine Zeeman signal. Neither effect had been modelled comprehensively alongside the rest of the maser physics.
 
 ## What did we do?
 
