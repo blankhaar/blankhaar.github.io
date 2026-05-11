@@ -3,6 +3,10 @@ layout: page
 title: Papers
 subtitle: Plain-language summaries of selected work. The full publication list lives on Google Scholar.
 permalink: /papers/
+description: >-
+  Plain-language summaries of selected papers by Boy Lankhaar on molecular
+  line polarization, cosmic magnetic fields, and the fundamentals of
+  radiative transfer.
 ---
 
 <p style="font-size:0.95rem;">For the complete, up-to-date list see my <a href="https://scholar.google.com/citations?user={{ site.author.scholar }}">Google Scholar</a> profile or <a href="https://orcid.org/{{ site.author.orcid }}">ORCID</a>.</p>

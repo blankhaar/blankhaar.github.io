@@ -3,6 +3,9 @@ layout: page
 title: Code & software
 subtitle: Open-source codes for polarized line radiative transfer.
 permalink: /code/
+description: >-
+  Open-source codes by Boy Lankhaar — PORTAL and CHAMP for polarized
+  radiative transfer of atomic and molecular spectral lines.
 ---
 
 A common thread in my work is that interpreting polarization observations needs careful theory and good numerics. Below are two open-source codes I have written to do exactly that.

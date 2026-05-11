@@ -3,6 +3,10 @@ layout: page
 title: Research
 subtitle: Cosmic magnetic fields, molecular spectroscopy, and the questions I keep coming back to.
 permalink: /research/
+description: >-
+  Boy Lankhaar's research: cosmic magnetic fields, polarized molecular line
+  radiative transfer, star formation and protoplanetary disks, and the nuclear
+  dynamics of extreme galaxies.
 ---
 
 ## What I work on

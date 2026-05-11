@@ -3,6 +3,9 @@ layout: page
 title: CV
 subtitle: Short academic CV. The full PDF version is downloadable below.
 permalink: /cv/
+description: >-
+  Short academic CV of Boy Lankhaar — astrophysicist at the Institute of
+  Theoretical Astrophysics, University of Oslo. PhD Chalmers 2021.
 ---
 
 <p><a href="{{ '/assets/files/lankhaar-cv.pdf' | relative_url }}">Download full CV (PDF)</a></p>

@@ -3,6 +3,10 @@ layout: page
 title: Talks
 subtitle: Where and what I've spoken about.
 permalink: /talks/
+description: >-
+  Selected talks by Boy Lankhaar — colloquia, conference contributions, and
+  public lectures on cosmic magnetic fields, molecular spectroscopy, and
+  radiative transfer.
 ---
 
 <figure class="paper-figure">

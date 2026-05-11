@@ -1,6 +1,9 @@
 ---
 layout: default
-title: Home
+description: >-
+  Personal site of Boy Lankhaar — Marie Skłodowska-Curie postdoctoral fellow
+  at the Institute of Theoretical Astrophysics, University of Oslo, studying
+  cosmic magnetic fields with molecular spectral lines.
 ---
 
 <section class="hero">

@@ -3,6 +3,9 @@ layout: page
 title: Notes
 subtitle: Occasional writing on the craft of doing science — radiative transfer, code, methods, and asides.
 permalink: /blog/
+description: >-
+  Notes by Boy Lankhaar — occasional writing on radiative transfer, code,
+  methods, and asides from doing science.
 ---
 
 <ul class="simple-list">
