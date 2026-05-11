@@ -29,7 +29,7 @@ Outreach work happens for me at the intersection of two things I value: explaini
   </li>
   <li>
     <strong>Many-body effects and the line radiative transfer equation</strong><br>
-    <span class="meta">invited seminar · Astronomy and Astrophysics seminar, Chalmers University of Technology · Gothenburg, Sweden · September 2025</span>
+    <span class="meta">invited seminar · Astronomy and Astrophysics seminar, Chalmers University of Technology · Gothenburg, Sweden · September 2025 · <a href="https://play.chalmers.se/media/AstroSeminarA+Boy+Lankhaar++-+Radiative+transfer+equation/0_8losh5a3">recording</a></span>
   </li>
   <li>
     <strong>Line polarization in protostellar environments</strong><br>
@@ -53,7 +53,7 @@ Outreach work happens for me at the intersection of two things I value: explaini
   </li>
   <li>
     <strong>Spectral line polarization: characterizing magnetic fields and chirality</strong><br>
-    <span class="meta">contributed · New Eyes on the Universe: SKA and ngVLA · Vancouver, Canada · May 2023</span>
+    <span class="meta">contributed · New Eyes on the Universe: SKA and ngVLA · Vancouver, Canada · May 2023 · <a href="https://www.youtube.com/watch?v=6Th1CAcaJWI">recording</a></span>
   </li>
   <li>
     <strong>A comprehensive model of maser polarization</strong><br>
@@ -81,7 +81,7 @@ Outreach work happens for me at the intersection of two things I value: explaini
   </li>
   <li>
     <strong>Tracing cosmic magnetic fields using molecules</strong><br>
-    <span class="meta">Hypatia Colloquium (competitive selection) · ESO · online · February 2021</span>
+    <span class="meta">Hypatia Colloquium (competitive selection) · ESO · online · February 2021 · <a href="https://www.youtube.com/watch?v=Bii-zWZ8UIw">recording</a></span>
   </li>
   <li>
     <strong>HCN-VIB polarization: a CONspiracy between radiative-pressure anisotropy and the magnetic field</strong><br>
@@ -121,6 +121,6 @@ Outreach work happens for me at the intersection of two things I value: explaini
   </li>
   <li>
     <strong>Methanol's Zeeman effect</strong><br>
-    <span class="meta">contributed · Crutcher and Heiles meeting on Star Formation and Magnetic Fields · Madison, WI, USA · May 2016</span>
+    <span class="meta">contributed · Crutcher and Heiles meeting on Star Formation and Magnetic Fields · Madison, WI, USA · May 2016 · <a href="https://www.youtube.com/watch?v=FAI6Ys48p_I">recording</a></span>
   </li>
 </ul>
