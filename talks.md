@@ -24,6 +24,14 @@ I have given public lectures at the **Gothenburg Science Festival** and for the 
 
 <ul class="simple-list">
   <li>
+    <strong>Opportunities for line polarization with AtLAST</strong><br>
+    <span class="meta">contributed · EAS Annual Meeting, AtLAST special session (SS26) · Lausanne, Switzerland · July 2026</span>
+  </li>
+  <li>
+    <strong>Getting at the magnetic fields of CONs</strong><br>
+    <span class="meta">contributed · Behind the Curtain of Dust VI · Ishigaki, Japan · June 2026</span>
+  </li>
+  <li>
     <strong>Line polarization: radiative transfer implementation and scientific opportunities</strong><br>
     <span class="meta">contributed · SKIRT days · Gent, Belgium · October 2025</span>
   </li>
