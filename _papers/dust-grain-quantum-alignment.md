@@ -2,9 +2,9 @@
 title: A quantum theory of the alignment and polarization of very small dust grains
 slug: dust-grain-quantum-alignment
 authors: B. Lankhaar
-journal: arXiv preprint
+journal: "Astronomy & Astrophysics (in press)"
 year: 2026
-date: 2026-04-01
+date: 2026-08-17
 arxiv: "2604.26001"
 summary: A quantum-mechanical theory of the smallest interstellar dust grains, predicting when their microwave glow becomes polarized — a possible contaminant of CMB B-mode searches.
 featured: true
@@ -32,4 +32,4 @@ This gives a clean, testable link between the same population of grains seen in 
 
 ## My role
 
-Sole author. The full preprint is on arXiv — comments and questions are very welcome.
+Sole author. The paper was accepted by *Astronomy & Astrophysics* on 17 August 2026; the preprint is on arXiv in the meantime — comments and questions are very welcome.
