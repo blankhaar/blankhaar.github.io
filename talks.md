@@ -24,6 +24,10 @@ I have given public lectures at the **Gothenburg Science Festival** and for the 
 
 <ul class="simple-list">
   <li>
+    <strong>Flaring masers: excitation modeling and polarization properties</strong><br>
+    <span class="meta">Maser Monitoring Organisation (M2O) seminar · online · 16 September 2026 · <a href="https://www.youtube.com/watch?v=dyJwk515drw">recording</a></span>
+  </li>
+  <li>
     <strong>Opportunities for line polarization with AtLAST</strong><br>
     <span class="meta">contributed · EAS Annual Meeting, AtLAST special session (SS26) · Lausanne, Switzerland · July 2026</span>
   </li>
